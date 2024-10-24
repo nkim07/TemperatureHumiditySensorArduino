@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Temperature and Humidity Display (Arduino | C++)
 
 Using Arduino and its components, I created a Temperature and Humidity Module with various functions along with displaying the temperature and humidity.
 
